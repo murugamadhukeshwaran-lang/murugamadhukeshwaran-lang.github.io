@@ -1306,3 +1306,10 @@ body {
 .profile-role {
   color: #9ca3af;
 }
+.hero-description {
+  max-width: 650px;
+  margin-top: 20px;
+  font-size: 17px;
+  line-height: 1.7;
+  opacity: 0.85;
+}
