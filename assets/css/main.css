@@ -1260,7 +1260,13 @@ section,
   display: flex;
   align-items: center;
 }
-
+.profile-role {
+  margin: 6px 0 0;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  opacity: 0.75;
+}
 .service-details ul i {
   font-size: 20px;
   margin-right: 8px;
